@@ -1,4 +1,4 @@
-# Guillem_Portfolio
+# Guillem Miralles Portfolio
 👋 Hello! My name is Guillem Miralles, and I am a passionate data scientist and AI enthusiast. 📚🧠
 
 I have a degree in Data Science 📊 and a master's degree in Artificial Intelligence 🤖 from the prestigious University of Valencia. 🎓
