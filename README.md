@@ -8,10 +8,10 @@ Welcome to my vibrant portfolio, where I showcase some of my diverse projects an
 Explore the intersection between data and creativity through my data visualizations 📊, predictive modeling 📈 and cutting-edge AI applications. 🌟
 
 
+\n
 
 
-
-# [Project 1 (Python) - FieldWizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
+# [Project 1 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
 
 
 ## Objectives
