@@ -28,13 +28,11 @@ Throughout the course of this project, we utilized multiple dataframes and under
 
 The results were impressive. Below is a summary of our findings:
 
-| Task | Model | Accuracy | F1-Score |
+| Task | Accuracy | F1-Score |
 | --- | --- | --- | --- |
-| Predicting Player Positions | Deep Learning Model | 0.97 | 0.99 |
-| Predicting Player Positions | Linear Regression | 0.19 | 0.48 |
-| --- | --- | --- | --- |
-| Predicting Optimal Team Formation | Deep Learning Model | 0.783 | 0.782 |
-| Predicting Optimal Team Formation | Linear Regression | 0.7 | 0.71 |
+| Predicting Player Positions | 0.97 | 0.99 |
+| Predicting Optimal Team Formation | 0.783 | 0.782 |
+
 
 
 
