@@ -66,6 +66,7 @@ The results of this project were significant and provided valuable insights into
   
 # [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
 
+App Web: https://guillemmiralles.shinyapps.io/5_42/
 ## Objectives
 In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep.
 
@@ -81,18 +82,21 @@ The results obtained from this project were significant and demonstrated the eff
 | REM Sleep Stage Detection | 0.92 | 0.88 |
   
   
-# [Project 5 (RStudio)  - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🔥
+# [Project 5 (RStudio)  - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀🔥
 ## Objectives
-In this project, we seek to accomplish the goal of **Generating song lyrics** based on scraped data from favorite music bands.
+The purpose of this dashboard is to view advanced NBA statistics and prediction models. The user can interact by selecting season, team, players ... 
 
-Throughout the project, we employed web scraping to collect song lyrics and developed a Deep Learning model using PyTorch to generate new lyrics based on the collected data.
+We have:
+- Tables with statistics of teams and players given the season that the user indicates.
+- Advanced statistics of teams, players and players' shooting.
+- Prediction on which players will be in the ALL-NBA Team.
+- Evolution of the average salary in the NBA.
 
-## Why?
-- This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
+## Why this?
+This project could serve as a template for a more comprehensive NBA statistics dashboard. It offers numerous possibilities for expanding both the range of statistics and the models used. By enhancing the dashboard, we can explore a wider array of statistical insights. Moreover, we have the opportunity to develop new models that can predict future game outcomes, championship results, and more. Additionally, there is room for improvement in the All-NBA Team model, as it currently relies on linear models.
 
 ## Results
-
-The results obtained with this project were remarkable. Here is a summary of the results:
+###[Shiny Dashboard](https://guillemmiralles.shinyapps.io/5_42/)
 
 
 
