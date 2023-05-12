@@ -48,7 +48,7 @@ Throughout the project, we employed web scraping to collect song lyrics and deve
 The results obtained with this project were remarkable. Here is a summary of the results:
   
   
-# [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
+# [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News.](https://github.com/GuillemMiralles/Meneame_News_Classifier/tree/main) 📰🏷🕶
 ## Objectives
 In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database.
 
@@ -68,7 +68,6 @@ The results of this project were significant and provided valuable insights into
   
 # [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
 
-App Web: https://guillemmiralles.shinyapps.io/5_42/
 ## Objectives
 In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep.
 
