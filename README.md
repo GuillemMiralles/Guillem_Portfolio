@@ -9,6 +9,8 @@ Explore the intersection between data and creativity through my data visualizati
 
 
 
+
+
 # [Project 1 (Python) - FieldWizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
 
 
@@ -35,6 +37,7 @@ The results were impressive. Below is a summary of our findings:
 
 
 
+
 # [Project 2 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
 
 ## Objectives
@@ -48,6 +51,8 @@ Throughout the project, we employed web scraping to collect song lyrics and deve
 ## Results
 
 The results obtained with this project were remarkable. Here is a summary of the results:
+
+
 
 
 
@@ -68,6 +73,8 @@ The results of this project were significant and provided valuable insights into
 
 
 
+
+
 # [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
 
 ## Objectives
@@ -83,6 +90,7 @@ The results obtained from this project were significant and demonstrated the eff
 | Task | Accuracy | Interpretability Score |
 | --- | --- | --- |
 | REM Sleep Stage Detection | 0.92 | 0.88 |
+
 
 
 
