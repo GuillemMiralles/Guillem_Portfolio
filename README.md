@@ -82,7 +82,7 @@ The results obtained from this project were significant and demonstrated the eff
 | REM Sleep Stage Detection | 0.92 | 0.88 |
   
   
-# [Project 5 (RStudio)  - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀🔥
+# [Project 5 (RStudio)  - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀📊👁‍🗨
 ## Objectives
 The purpose of this dashboard is to view advanced NBA statistics and prediction models. The user can interact by selecting season, team, players ... 
 
@@ -96,7 +96,7 @@ We have:
 This project could serve as a template for a more comprehensive NBA statistics dashboard. It offers numerous possibilities for expanding both the range of statistics and the models used. By enhancing the dashboard, we can explore a wider array of statistical insights. Moreover, we have the opportunity to develop new models that can predict future game outcomes, championship results, and more. Additionally, there is room for improvement in the All-NBA Team model, as it currently relies on linear models.
 
 ## Results
-###[Shiny Dashboard](https://guillemmiralles.shinyapps.io/5_42/)
+### [Shiny Dashboard](https://guillemmiralles.shinyapps.io/5_42/)
 
 
 
