@@ -59,9 +59,11 @@ In this previous project, we sought to accomplish the following objective using 
 
 The results of this project were significant and provided valuable insights into the classification of news articles. Here's a summary of our findings:
 
-| Task | Accuracy | F1-Score |
+| Task | F1 | Leisure F1 |
 | --- | --- | --- |
-| News Classification | XXX | XXX |
+| Logistic Regression with TF-IDF | 0.7761 | 0.88 |
+| SGDClassifier with Bag Of Words | 0.7768 | 0.88 |
+| SVC with Doc2Bow | 0.7699 | 0.53 |
   
   
 # [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
@@ -79,8 +81,10 @@ The results obtained from this project were significant and demonstrated the eff
 
 | Task | Accuracy | Interpretability Score |
 | --- | --- | --- |
-| REM Sleep Stage Detection | 0.92 | 0.88 |
-  
+| Logistic Regression with TF-IDF | 0.7761 | 0.88 |
+| SGDClassifier with Bag Of Words | 0.7768 | 0.88 |
+| SVC with Doc2Bow | 0.7699 | 0.53 |
+
   
 # [Project 5 (RStudio)  - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀📊👁‍🗨
 ## Objectives
