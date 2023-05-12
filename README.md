@@ -6,11 +6,8 @@ I have a degree in **Data Science** 📊 and a master's degree in **Artificial I
 Welcome to my vibrant portfolio, where I showcase some of my diverse projects and their exciting results. 💼✨
 
 Explore the intersection between data and creativity through my data visualizations 📊, predictive modeling 📈 and cutting-edge AI applications. 🌟
-
-
-<div style="page-break-after: always;"></div>
-
-
+  
+  
 # [Project 1 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
 
 
@@ -34,10 +31,8 @@ The results were impressive. Below is a summary of our findings:
 | --- | --- | --- |
 | Predicting Player Positions | 0.97 | 0.99 |
 | Predicting Optimal Team Formation | 0.783 | 0.782 |
-
-
-
-
+  
+  
 # [Project 2 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
 
 ## Objectives
@@ -51,11 +46,8 @@ Throughout the project, we employed web scraping to collect song lyrics and deve
 ## Results
 
 The results obtained with this project were remarkable. Here is a summary of the results:
-
-
-
-
-
+  
+  
 # [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
 ## Objectives
 In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database.
@@ -70,11 +62,8 @@ The results of this project were significant and provided valuable insights into
 | Task | Accuracy | F1-Score |
 | --- | --- | --- |
 | News Classification | XXX | XXX |
-
-
-
-
-
+  
+  
 # [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
 
 ## Objectives
@@ -90,12 +79,8 @@ The results obtained from this project were significant and demonstrated the eff
 | Task | Accuracy | Interpretability Score |
 | --- | --- | --- |
 | REM Sleep Stage Detection | 0.92 | 0.88 |
-
-
-
-
-
-
+  
+  
 # [Project 5 (RStudio)  - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🔥
 ## Objectives
 In this project, we seek to accomplish the goal of **Generating song lyrics** based on scraped data from favorite music bands.
