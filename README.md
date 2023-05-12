@@ -8,7 +8,6 @@ Welcome to my vibrant portfolio, where I showcase some of my diverse projects an
 
 Explore the intersection between data and creativity through my data visualizations 📊, predictive modeling 📈, and cutting-edge AI applications. 🌟
 
----
 
 # [Project 1 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
 
@@ -35,7 +34,6 @@ The results were impressive. Below is a summary of our findings:
 | Predicting Player Positions  | 0.97     | 0.99     |
 | Predicting Optimal Team Formation | 0.783 | 0.782    |
 
----
 
 # [Project 2 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
 
@@ -53,7 +51,6 @@ Throughout the project, we employed web scraping to collect song lyrics and deve
 
 The results obtained with this project were remarkable. Here is a summary of the results:
 
----
 
 # [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
 ## Objectives
