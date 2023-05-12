@@ -1,5 +1,4 @@
 # Guillem Miralles Portfolio
-
 👋 Hi! My name is Guillem Miralles, and I'm a passionate data scientist and AI enthusiast. 📚🧠
 
 I have a degree in **Data Science** 📊 and a master's degree in **Artificial Intelligence** 🤖 from **University of Valencia.** 🎓 
@@ -8,11 +7,9 @@ Welcome to my vibrant portfolio, where I showcase some of my diverse projects an
 
 Explore the intersection between data and creativity through my data visualizations 📊, predictive modeling 📈, and cutting-edge AI applications. 🌟
 
-
 # [Project 1 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
 
 ## Objectives
-
 In this project, we sought to accomplish the following objectives using **Deep Learning techniques**:
 
 1. **Predict possible player positions** on a soccer field based on their attributes.
@@ -21,7 +18,6 @@ In this project, we sought to accomplish the following objectives using **Deep L
 Throughout the course of this project, we utilized multiple dataframes and undertook a significant amount of data adaptation work. This included a comprehensive **Exploratory Data Analysis (EDA)**, which helped us gain insights into the data and inform our modeling process.
 
 ## Why this?
-
 - The first project is interesting for its potential applications in player development, talent identification, strategic planning, and injury management. It demonstrates the power of AI in sports analysis and decision making.
 - The second objective is intriguing for its potential to revolutionize strategic decision making in soccer. This model could help coaches design effective game plans, taking into account the strengths of their team and the specific challenges posed by opponents. It could also be valuable in dynamic situations, such as responding to player injuries or suspensions.
 
@@ -38,17 +34,14 @@ The results were impressive. Below is a summary of our findings:
 # [Project 2 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
 
 ## Objectives
-
 In this project, we seek to accomplish the goal of **Generating song lyrics** based on scraped data from favorite music bands.
 
 Throughout the project, we employed web scraping to collect song lyrics and developed a Deep Learning model using PyTorch to generate new lyrics based on the collected data.
 
 ## Why?
-
 - This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
 
 ## Results
-
 The results obtained with this project were remarkable. Here is a summary of the results:
 
 
