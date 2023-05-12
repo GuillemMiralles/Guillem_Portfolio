@@ -85,7 +85,7 @@ The results obtained from this project were significant and demonstrated the eff
 | SVC with Doc2Bow | 0.7699 | 0.53 |
 
   
-# [Project 5 (RStudio)  - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀📊👁‍🗨
+# [Project 5 (RStudio)  - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions.](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀📊👁‍🗨
 ## Objectives
 The purpose of this dashboard is to view advanced NBA statistics and prediction models. The user can interact by selecting season, team, players ... 
 
