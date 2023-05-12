@@ -40,7 +40,7 @@ In this project, we seek to accomplish the goal of **Generating song lyrics** ba
 
 Throughout the project, we employed web scraping to collect song lyrics and developed a Deep Learning model using PyTorch to generate new lyrics based on the collected data.
 
-## Why?
+## Why this?
 - This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
 
 ## Results
@@ -72,7 +72,7 @@ The results of this project were significant and provided valuable insights into
 In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep.
 
 ## Why this?
-- This project was fascinating due to its potential impact on sleep research and healthcare. Accurate detection of REM sleep stages can aid in diagnosing sleep disorders, understanding brain activity during dreaming, and facilitating personalized treatment plans. The focus on interpretability ensured that the models' predictions were transparent and easily understandable by healthcare professionals.
+- Classifying sleep stages based on PSG signals using interpretable machine learning techniques is useful for medical diagnosis and treatment of sleep disorders, monitoring sleep quality, providing personalized sleep recommendations, advancing sleep research, and enhancing sleep tracking with wearable devices. Interpretable machine learning models help identify relevant PSG features and their relationships to sleep stages, empowering individuals to understand their sleep patterns and make informed decisions for improved sleep health.
 
 ## Results
 
@@ -96,7 +96,7 @@ We have:
 - Evolution of the average salary in the NBA.
 
 ## Why this?
-This project could serve as a template for a more comprehensive NBA statistics dashboard. It offers numerous possibilities for expanding both the range of statistics and the models used. By enhancing the dashboard, we can explore a wider array of statistical insights. Moreover, we have the opportunity to develop new models that can predict future game outcomes, championship results, and more. Additionally, there is room for improvement in the All-NBA Team model, as it currently relies on linear models.
+- This project could serve as a template for a more comprehensive NBA statistics dashboard. It offers numerous possibilities for expanding both the range of statistics and the models used. By enhancing the dashboard, we can explore a wider array of statistical insights. Moreover, we have the opportunity to develop new models that can predict future game outcomes, championship results, and more. Additionally, there is room for improvement in the All-NBA Team model, as it currently relies on linear models.
 
 ## Results
 ### [Shiny Dashboard](https://guillemmiralles.shinyapps.io/5_42/)
