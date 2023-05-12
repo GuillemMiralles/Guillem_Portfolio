@@ -5,9 +5,11 @@ I have a degree in **Data Science** 📊 and a master's degree in **Artificial I
 
 Welcome to my vibrant portfolio, where I showcase some of my diverse projects and their exciting results. 💼✨
 
-Explore the intersection between data and creativity through my data visualizations 📊, predictive modeling 📈, and cutting-edge AI applications. 🌟
-
+Explore the intersection between data and creativity through my data visualizations 📊, predictive modeling 📈 and cutting-edge AI applications. 🌟
+  
+  
 # [Project 1 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
+
 
 ## Objectives
 In this project, we sought to accomplish the following objectives using **Deep Learning techniques**:
@@ -18,19 +20,19 @@ In this project, we sought to accomplish the following objectives using **Deep L
 Throughout the course of this project, we utilized multiple dataframes and undertook a significant amount of data adaptation work. This included a comprehensive **Exploratory Data Analysis (EDA)**, which helped us gain insights into the data and inform our modeling process.
 
 ## Why this?
-- The first project is interesting for its potential applications in player development, talent identification, strategic planning, and injury management. It demonstrates the power of AI in sports analysis and decision making.
+- The first project is interesting for its potential applications in player development, talent identification, strategic planning and injury management. It demonstrates the power of AI in sports analysis and decision making.  
 - The second objective is intriguing for its potential to revolutionize strategic decision making in soccer. This model could help coaches design effective game plans, taking into account the strengths of their team and the specific challenges posed by opponents. It could also be valuable in dynamic situations, such as responding to player injuries or suspensions.
 
 ## Results
 
 The results were impressive. Below is a summary of our findings:
 
-| Task                         | Accuracy | F1-Score |
-| ---------------------------- | -------- | -------- |
-| Predicting Player Positions  | 0.97     | 0.99     |
-| Predicting Optimal Team Formation | 0.783 | 0.782    |
-
-
+| Task | Accuracy | F1-Score |
+| --- | --- | --- |
+| Predicting Player Positions | 0.97 | 0.99 |
+| Predicting Optimal Team Formation | 0.783 | 0.782 |
+  
+  
 # [Project 2 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
 
 ## Objectives
@@ -42,9 +44,10 @@ Throughout the project, we employed web scraping to collect song lyrics and deve
 - This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
 
 ## Results
+
 The results obtained with this project were remarkable. Here is a summary of the results:
-
-
+  
+  
 # [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
 ## Objectives
 In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database.
@@ -90,6 +93,7 @@ Throughout the project, we employed web scraping to collect song lyrics and deve
 ## Results
 
 The results obtained with this project were remarkable. Here is a summary of the results:
+
 
 
 
