@@ -8,4 +8,4 @@ Welcome to my vibrant portfolio, where I showcase my diverse range of projects a
 Explore the intersection between data and creativity through my innovative data visualisations 📊, predictive modelling 📈 and cutting-edge AI applications. 🌟
 
 
-# Project 1 - FieldWizard: Predicting positions and formations for success on the football pitch. 🔮🔥
+# Project 1 - FieldWizard: Predicting Positions and Formations for Success on the Soccer field. 🔮🔥
