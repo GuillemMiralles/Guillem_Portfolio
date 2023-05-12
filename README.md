@@ -9,7 +9,7 @@ Explore the intersection between data and creativity through my data visualizati
 
 
 
-# [Project 1 - FieldWizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🔮🔥
+# [Project 1 (Python) - FieldWizard: Predicting Positions and Formations for Success on the Soccer Field.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) ⚽🧐🔥
 
 
 ## Objectives
@@ -32,6 +32,75 @@ The results were impressive. Below is a summary of our findings:
 | --- | --- | --- |
 | Predicting Player Positions | 0.97 | 0.99 |
 | Predicting Optimal Team Formation | 0.783 | 0.782 |
+
+
+
+# [Project 2 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
+
+## Objectives
+In this project, we seek to accomplish the goal of **Generating song lyrics** based on scraped data from favorite music bands.
+
+Throughout the project, we employed web scraping to collect song lyrics and developed a Deep Learning model using PyTorch to generate new lyrics based on the collected data.
+
+## Why?
+- This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
+
+## Results
+
+The results obtained with this project were remarkable. Here is a summary of the results:
+
+
+
+# [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
+## Objectives
+In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database.
+
+## Why this?
+- This project was intriguing due to its potential for various applications, such as improving news organization, content recommendation, and understanding user preferences. It showcased the power of NLP in handling large volumes of text data and extracting valuable insights.
+
+## Results
+
+The results of this project were significant and provided valuable insights into the classification of news articles. Here's a summary of our findings:
+
+| Task | Accuracy | F1-Score |
+| --- | --- | --- |
+| News Classification | XXX | XXX |
+
+
+
+# [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
+
+## Objectives
+In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep.
+
+## Why this?
+- This project was fascinating due to its potential impact on sleep research and healthcare. Accurate detection of REM sleep stages can aid in diagnosing sleep disorders, understanding brain activity during dreaming, and facilitating personalized treatment plans. The focus on interpretability ensured that the models' predictions were transparent and easily understandable by healthcare professionals.
+
+## Results
+
+The results obtained from this project were significant and demonstrated the efficacy of the interpretability-focused machine learning models. Here's a summary of our findings:
+
+| Task | Accuracy | Interpretability Score |
+| --- | --- | --- |
+| REM Sleep Stage Detection | 0.92 | 0.88 |
+
+
+
+
+
+# [Project 5 (RStudio)  - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🔥
+## Objectives
+In this project, we seek to accomplish the goal of **Generating song lyrics** based on scraped data from favorite music bands.
+
+Throughout the project, we employed web scraping to collect song lyrics and developed a Deep Learning model using PyTorch to generate new lyrics based on the collected data.
+
+## Why?
+- This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
+
+## Results
+
+The results obtained with this project were remarkable. Here is a summary of the results:
+
 
 
 
