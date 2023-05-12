@@ -55,14 +55,6 @@ The results obtained with this project were remarkable. Here is a summary of the
 
 ---
 
-# [Project 3 (Python) - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
-
-## Objectives
-
-In this previous project, we sought to accomplish the following objective using **NLP
-
-  
-  
 # [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News"](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 📰🏷🕶
 ## Objectives
 In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database.
