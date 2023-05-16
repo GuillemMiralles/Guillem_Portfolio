@@ -62,9 +62,9 @@ The results of this project were significant and provided valuable insights into
 
 | Task | F1 | Leisure F1 |
 | --- | --- | --- |
-| Logistic Regression with TF-IDF | 0.7761 | 0.88 |
-| SGDClassifier with Bag Of Words | 0.7768 | 0.88 |
-| SVC with Doc2Bow | 0.7699 | 0.53 |
+| SVC with Doc2Bow | 0.7655 | 0.52 |
+| Logistic Regression with TF-IDF | 0.7741 | 0.45 |
+| Linear SVC with LSA | 0.7589 | 0.38 |
   
 ### [The Complete Article in Medium](https://guillemmiralles1.medium.com/news-classification-unbalanced-classes-nlp-e865ac33eb85)📜
   
