@@ -1,3 +1,5 @@
+![](images/cap.png)
+
 # Guillem Miralles Portfolio
 👋 Hi! My name is Guillem Miralles, and I'm a passionate data scientist and AI enthusiast. 📚🧠
 
