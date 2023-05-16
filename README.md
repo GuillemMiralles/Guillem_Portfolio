@@ -51,7 +51,7 @@ The results obtained with this project were remarkable. Here is a summary of the
   
 # [Project 3 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News.](https://github.com/GuillemMiralles/Meneame_News_Classifier/tree/main) 📰🏷🕶
 ## Objectives
-In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database that contains 177,000 news from different newspapers.
+In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database containing 177,000 news from different newspapers.
 
 ## Why this?
 - This project was intriguing due to its potential for various applications, such as improving news organization, content recommendation, and understanding user preferences. It showcased the power of NLP in handling large volumes of text data and extracting valuable insights.
