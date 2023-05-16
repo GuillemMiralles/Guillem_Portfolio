@@ -1,6 +1,5 @@
 ![](images/cap.png)
 
-# Guillem Miralles Portfolio
 👋 Hi! My name is Guillem Miralles, and I'm a passionate data scientist and AI enthusiast. 📚🧠
 
 I have a degree in **Data Science** 📊 and a master's degree in **Artificial Intelligence** 🤖 from **University of Valencia.** 🎓 
