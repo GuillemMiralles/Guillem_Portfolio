@@ -1,4 +1,4 @@
-![](images/cap.png)
+![](images/cap1.png)
 
 👋 Hi! My name is Guillem Miralles, and I'm a passionate data scientist and AI enthusiast. 📚🧠
 
