@@ -65,6 +65,7 @@ The results of this project were significant and provided valuable insights into
 | SGDClassifier with Bag Of Words | 0.7768 | 0.88 |
 | SVC with Doc2Bow | 0.7699 | 0.53 |
   
+### [The Complete Article in Medium](https://guillemmiralles1.medium.com/news-classification-unbalanced-classes-nlp-e865ac33eb85)📜
   
 # [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
 
