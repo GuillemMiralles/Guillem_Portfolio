@@ -46,20 +46,21 @@ The results were impressive. Below is a summary of our findings:
 | Predicting Optimal Team Formation | 0.783 | 0.782 |
   
   
-# [Project 3 (Python) - DeepLearning Lyrics: Composing songs with the AI based on my favorite bands.](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🎶🎤🎸
+# 
+[Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🚖🤖
 
 ## Objectives
-In this project, we seek to accomplish the goal of **Generating song lyrics** based on scraped data from favorite music bands.
+- The objective of the project is to apply and evaluate a Reinforcement Learning (RL) approach to solve the challenging Taxi problem within the OpenAI Gym environment. Specifically, the goal is to train an RL agent capable of learning an optimal policy to maximize efficiency in picking up and delivering passengers, minimize travel time, and optimize the routes used by the virtual taxi driver.
 
-Throughout the project, we employed web scraping to collect song lyrics and developed a Deep Learning model using PyTorch to generate new lyrics based on the collected data.
 
 ## Why this?
-- This project is interesting because of its potential for creative applications in the music industry. It showcases the capabilities of AI to generate unique and personalized lyrics. In addition, it allows exploring the intersection between technology and artistic expression.
+- The project focuses on the Taxi problem within the OpenAI Gym environment because it presents a unique and complex scenario that challenges the capabilities of Reinforcement Learning (RL). This problem involves various factors, such as route planning, optimal decision-making, and time utilization, all within the context of traffic constraints and passenger demands. By successfully applying RL techniques to this problem, the project aims to demonstrate the adaptability and effectiveness of RL algorithms in solving real-world, dynamic, and multi-dimensional challenges, which can have applications in various domains beyond virtual taxi navigation.
 
 ## Results
 
-The results obtained with this project were remarkable. Here is a summary of the results:
-  
+Q-Learning proves to be effective in this scenario. This algorithm is capable of solving the Taxi v3 problem efficiently and optimally, as can be observed in the video displaying the 10,000 training episodes.
+
+Through the exploration and exploitation policy and the iterative update of the Q-table, the agent has learned to pick up and drop off passengers efficiently in the correct locations. The results obtained have been remarkable, with the taxi consistently optimizing the route, reaching the passenger and their destination in the most efficient manner possible.
   
 # [Project 4 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News.](https://github.com/GuillemMiralles/Meneame_News_Classifier/tree/main) 📰🏷🕶
 ## Objectives
