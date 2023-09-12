@@ -46,7 +46,7 @@ The results were impressive. Below is a summary of our findings:
 | Predicting Optimal Team Formation | 0.783 | 0.782 |
   
   
-# [Project 3 (Python) - Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🚖🤖
+# [Project 3 (Python) - Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem](https://github.com/GuillemMiralles/RL-Taxi-v3) 🚖🤖
 
 ## Objectives
 - The objective of the project is to apply and evaluate a Reinforcement Learning (RL) approach to solve the challenging Taxi problem within the OpenAI Gym environment. Specifically, the goal is to train an RL agent capable of learning an optimal policy to maximize efficiency in picking up and delivering passengers, minimize travel time, and optimize the routes used by the virtual taxi driver.
