@@ -56,7 +56,54 @@ Q-Learning proves to be effective in this scenario. This algorithm is capable of
 
 Through the exploration and exploitation policy and the iterative update of the Q-table, the agent has learned to pick up and drop off passengers efficiently in the correct locations. The results obtained have been remarkable, with the taxi consistently optimizing the route, reaching the passenger and their destination in the most efficient manner possible. ✅🚖
 
-# [Project 4 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News](https://github.com/GuillemMiralles/Meneame_News_Classifier/tree/main) 📰🏷🕶💻
+
+# [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
+
+## Objectives 🎯
+In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep. 💡🔬
+
+## Why this? 💭
+- Classifying sleep stages based on PSG signals using interpretable machine learning techniques is useful for medical diagnosis and treatment of sleep disorders, monitoring sleep quality, providing personalized sleep recommendations, advancing sleep research, and enhancing sleep tracking with wearable devices. Interpretable machine learning models help identify relevant PSG features and their relationships to sleep stages, empowering individuals to understand their sleep patterns and make informed decisions for improved sleep health. 🩺💤
+
+## Results 📊
+
+Below is a table of results for the models used:
+
+| Model            | Accuracy | Sensitivity | Specificity | Best Model |
+|------------------|----------|-------------|-------------|------------|
+| Logistic Regression | 0.85     | 0.79        | 0.89        | ❌          |
+| Random Forest    | 0.94     | 0.98        | 0.66        | ✅          |
+| Rule-Based Model (CBA) | 0.93 | 0.99      | 0.66        |            |
+
+✅ **Best Model**: Random Forest
+
+- The Random Forest model achieved an accuracy of approximately 94% in sleep classification, with high sensitivity (98.9%) but lower specificity (66.4%).
+
+- We identified that variables related to channel standard deviation are crucial in classification, especially in the Random Forest model.
+
+- We observed interesting interactions between the variables of standard deviation of channel O1 and the electromyograms.
+
+- We used techniques like LIME and Shapley to interpret models at a local level and understand how variables affect predictions.
+
+  
+# [Project 5 (RStudio) - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀📊👁‍🗨
+
+## Objectives 🎯
+The purpose of this dashboard is to view advanced NBA statistics and prediction models. The user can interact by selecting season, team, players ... 
+
+We have:
+- Tables with statistics of teams and players given the season that the user indicates. 📈
+- Advanced statistics of teams, players and players' shooting. 🏀📊
+- Prediction on which players will be in the ALL-NBA Team. 🌟
+- Evolution of the average salary in the NBA. 💰
+
+## Why this? 💭
+- This project could serve as a template for a more comprehensive NBA statistics dashboard. It offers numerous possibilities for expanding both the range of statistics and the models used. By enhancing the dashboard, we can explore a wider array of statistical insights. Moreover, we have the opportunity to develop new models that can predict future game outcomes, championship results, and more. Additionally, there is room for improvement in the All-NBA Team model, as it currently relies on linear models. 📈🔍
+
+## Results 📊
+### [Shiny Dashboard](https://guillemmiralles.shinyapps.io/5_42/) 🌐
+
+# [Project 6 (Python)  - News Categorizer: NLP's Quest to Sort Meneame.net News](https://github.com/GuillemMiralles/Meneame_News_Classifier/tree/main) 📰🏷🕶💻
 
 ## Objectives 🎯
 In this previous project, we sought to accomplish the following objective using **NLP (Natural Language Processing) techniques** to **Classify the type of news** in the meneame.net database which contains 177,000 news from different newspapers. 🗞️🔍
@@ -76,42 +123,6 @@ The results of this project were significant and provided valuable insights into
   
 #### [The Complete Article in Medium](https://guillemmiralles1.medium.com/news-classification-unbalanced-classes-nlp-e865ac33eb85)📜✍️
 
-# [Project 5 (RStudio) - Data Dunk in the NBA: A Shiny Dashboard of Advanced Metrics and NBA Predictions](https://github.com/GuillemMiralles/Shiny-NBA-App) 🏀📊👁‍🗨
-
-## Objectives 🎯
-The purpose of this dashboard is to view advanced NBA statistics and prediction models. The user can interact by selecting season, team, players ... 
-
-We have:
-- Tables with statistics of teams and players given the season that the user indicates. 📈
-- Advanced statistics of teams, players and players' shooting. 🏀📊
-- Prediction on which players will be in the ALL-NBA Team. 🌟
-- Evolution of the average salary in the NBA. 💰
-
-## Why this? 💭
-- This project could serve as a template for a more comprehensive NBA statistics dashboard. It offers numerous possibilities for expanding both the range of statistics and the models used. By enhancing the dashboard, we can explore a wider array of statistical insights. Moreover, we have the opportunity to develop new models that can predict future game outcomes, championship results, and more. Additionally, there is room for improvement in the All-NBA Team model, as it currently relies on linear models. 📈🔍
-
-## Results 📊
-### [Shiny Dashboard](https://guillemmiralles.shinyapps.io/5_42/) 🌐
-
-
-# [Project 6 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
-
-## Objectives 🎯
-In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep. 💡🔬
-
-## Why this? 💭
-- Classifying sleep stages based on PSG signals using interpretable machine learning techniques is useful for medical diagnosis and treatment of sleep disorders, monitoring sleep quality, providing personalized sleep recommendations, advancing sleep research, and enhancing sleep tracking with wearable devices. Interpretable machine learning models help identify relevant PSG features and their relationships to sleep stages, empowering individuals to understand their sleep patterns and make informed decisions for improved sleep health. 🩺💤
-
-## Results 📊
-
-The results obtained from this project were significant and demonstrated the efficacy of the interpretability-focused machine learning models. Here's a summary of our findings:
-
-| Task | Accuracy | Interpretability Score |
-| --- | --- | --- |
-| Logistic Regression with TF-IDF | 0.7761 | 0.88 |
-| SGDClassifier with Bag Of Words | 0.7768 | 0.88 |
-| SVC with Doc2Bow | 0.7699 | 0.53 |
-  
 
 
 
