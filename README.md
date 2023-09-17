@@ -19,7 +19,7 @@ This project was done in collaboration with the Instituto Valenciano de Investig
 
 I believe that open knowledge-sharing can foster innovation and progress, which is why I am thrilled to share this work with the wider community. I hope it inspires others and sparks fruitful collaborations in the field of agriculture and beyond. 🌱🌎✨
 
-# [Project 2 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field](https://github.com/GuillemMiralles/Field-Wizard)⚽🧐🔥📈
+# [Project 2 (Python) - Field Wizard: Predicting Positions and Formations for Success on the Soccer Field](https://github.com/GuillemMiralles/Field-Wizard)⚽🧐🔥
 
 ## Objectives 🎯
 In this project, we sought to accomplish the following objectives using **Deep Learning techniques**:
