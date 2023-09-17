@@ -57,7 +57,7 @@ Q-Learning proves to be effective in this scenario. This algorithm is capable of
 Through the exploration and exploitation policy and the iterative update of the Q-table, the agent has learned to pick up and drop off passengers efficiently in the correct locations. The results obtained have been remarkable, with the taxi consistently optimizing the route, reaching the passenger and their destination in the most efficient manner possible. ✅🚖
 
 
-# [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients](https://github.com/GuillemMiralles/Authomatic-Machine-Learning-Class) 🛌💤🔍
+# [Project 4 (RStudio) - Deep in the Depths of Sleep: Creating Interpretable Models to Detect Sleep Phases Using Polysomnography Signals from Patients](https://github.com/GuillemMiralles/Sleep-Phases) 🛌💤🔍
 
 ## Objectives 🎯
 In this project, we try to **classify sleep stages** based on PSG signals using **Interpretable Machine Learning techniques**. Throughout the project, we employed interpretability-focused machine learning models to analyze PSG signals and accurately identify the different phases of REM sleep. 💡🔬
